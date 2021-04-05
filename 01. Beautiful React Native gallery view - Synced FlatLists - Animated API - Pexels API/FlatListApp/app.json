@@ -1,0 +1,12 @@
+{
+  "name": "FlatListApp",
+  "displayName": "FlatListApp",
+  "expo": {
+    "name": "FlatListApp",
+    "slug": "FlatListApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
