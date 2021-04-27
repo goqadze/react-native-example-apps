@@ -68,7 +68,7 @@ export default () => {
           onLayout={(ev) => {
             setBottomActions(ev.nativeEvent.layout);
           }}
-          style={[styles.bottomActions, { backgroundColor: 'red' }]}
+          style={[styles.bottomActions]}
         ></View>
         <View>
           <Text style={styles.featuredTitle}>Featured</Text>
